@@ -56,6 +56,27 @@
       "price": 888,
       "picture": "cat8.jpg",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus dignissimos, maxime ea excepturi veritatis itaque."
+   },
+   {
+      "id": 8,
+      "name": "Pretty Cat",
+      "price": 555,
+      "picture": "cat1.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus dignissimos, maxime ea excepturi veritatis itaque."
+   },
+   {
+      "id": 9,
+      "name": "Pretty Cat",
+      "price": 999,
+      "picture": "cat2.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus dignissimos, maxime ea excepturi veritatis itaque."
+   },
+   {
+      "id": 10,
+      "name": "Pretty Cat",
+      "price": 1111,
+      "picture": "cat3.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus dignissimos, maxime ea excepturi veritatis itaque."
    }
 ]
 }
