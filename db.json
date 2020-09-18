@@ -1,64 +1,61 @@
 {
-   "data": [
-      {
-         "id": 0,
-         "title": "Cool Cat",
-         "price": 77.99,
-         "images": [
-            "./images/cat1.jpg",
-            "./images/cat4.jpg",
-            "./images/cat5.jpg",
-            "./images/cat2.jpg",
-            "./images/cat3.jpg"
-         ],
-         "subtitles": [
-            "Mama mia!",
-            "Je t'adore",
-            "Tropical cat",
-            "White home cat",
-            "Beach cat"
-         ],
-         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus dignissimos, maxime ea excepturi veritatis itaque."
-      },
-      {
-         "id": 1,
-         "title": "Black Cat",
-         "price": 66.77,
-         "images": [
-            "./images/cat2.jpg",
-            "./images/cat4.jpg",
-            "./images/cat5.jpg",
-            "./images/cat3.jpg",
-            "./images/cat1.jpg"
-         ],
-         "subtitles": [
-            "Tropical cat",
-            "Mama mia!",
-            "Je t'adore",
-            "Beach cat",
-            "White home cat"
-         ],
-         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus dignissimos, maxime ea excepturi veritatis itaque."
-      },
-      {
-         "id": 2,
-         "title": "Red Cat",
-         "price": 55.88,
-         "images": [
-            "./images/cat3.jpg",
-            "./images/cat4.jpg",
-            "./images/cat5.jpg",
-            "./images/cat2.jpg",
-            "./images/cat1.jpg"
-         ],
-         "subtitles": [
-            "Je t'adore",
-            "Tropical cat",
-            "Beach cat",
-            "White home cat",
-            "Mama mia!"
-         ],
-         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus dignissimos, maxime ea excepturi veritatis itaque."
-      }
-   ]
+   "data": 
+[
+   {
+      "id": 1,
+      "image": "images/product-1.jpg",
+      "name": "Kui Ye Chen’s AirPods",
+      "price": 123,
+      "category": "electronics"
+   },
+   {
+      "id": 2,
+      "image": "images/product-2.jpg",
+      "name": "Air bag",
+      "price": 121,
+      "category": "bags"
+   },
+   {
+      "id": 3,
+      "image": "images/product-3.jpg",
+      "name": "Men's T-Shirt",
+      "price": 223,
+      "category": "clothes"
+   },
+   {
+      "id": 4,
+      "image": "images/product-4.jpg",
+      "name": "Kui Ye watch",
+      "price": 321,
+      "category": "watches"
+   },
+   {
+      "id": 5,
+      "image": "images/product-5.jpg",
+      "name": "Red digital smartwatch",
+      "price": 111,
+      "category": "electronics"
+   },
+   {
+      "id": 6,
+      "image": "images/product-6.jpg",
+      "name": "Nike air max 95",
+      "price": 222,
+      "category": "shoes"
+   },
+   {
+      "id": 7,
+      "image": "images/product-7.jpg",
+      "name": "Joemalone Women prefume",
+      "price": 13,
+      "category": "cosmetics"
+   },
+   {
+      "id": 8,
+      "image": "images/product-8.jpg",
+      "name": "Apple Watch",
+      "price": 333,
+      "category": "electronics"
+   }
+]
 }
